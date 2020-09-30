@@ -4,7 +4,7 @@ class MainActivity extends Component {
         super(props);
         this.state = {
             tasks: [],
-            buffer: ""
+            buffer: " "
         }
     }
 
